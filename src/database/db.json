@@ -1,0 +1,22 @@
+{
+    "tickets": [
+        {
+            "id": "377767a3-8d4c-4061-8a04-b73eeaa271c2",
+            "equipment": "Computador",
+            "description": "Computador não liga.",
+            "user_name": "Jeferson Carvalho",
+            "status": "open",
+            "created_at": "2025-06-11T21:29:51.942Z",
+            "updated_at": "2025-06-11T21:29:51.942Z"
+        },
+        {
+            "id": "d7f2b794-2a46-435d-9789-04d5a5ad4735",
+            "equipment": "Computador",
+            "description": "Computador não liga.",
+            "user_name": "Jeferson Carvalho",
+            "status": "open",
+            "created_at": "2025-06-11T21:38:48.715Z",
+            "updated_at": "2025-06-11T21:38:48.715Z"
+        }
+    ]
+}
